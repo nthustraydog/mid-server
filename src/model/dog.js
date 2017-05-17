@@ -4,8 +4,8 @@ const moment = require('moment');
 
 function list(dogID = '') {
   return new Promise((resolve, reject) => {
-      if (!fs.existsSync('data-dogs.json')) {
-          fs.writeFileSync('data-dogs.json', '');
+      if (!fs.existsSync('dogs-data.json')) {
+          fs.writeFileSync('dogs-data.json', '');
       }
 
       fs.readFile('dogs-data.json', 'utf8', (err, data) => {
