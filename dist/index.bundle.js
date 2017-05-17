@@ -6012,7 +6012,8 @@ module.exports = defaults;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_axios___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_axios__);
 
 
-var postBaseUrl = 'http://localhost:8080/api';
+//const postBaseUrl = 'http://localhost:8080/api';
+var postBaseUrl = 'http://nthustraydog.us-west-2.elasticbeanstalk.com/api';
 
 function getDog() {
     var dogID = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : '';
