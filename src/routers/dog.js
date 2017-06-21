@@ -3,7 +3,6 @@ const bodyParser = require('body-parser');
 
 const dogModel = require('../model/dog.js');
 const mailModel = require('../model/mail.js');
-
 const forumModel = require('../model/forum.js');
 
 const router = express.Router();
@@ -17,62 +16,66 @@ router.get('/dogs', function(req, res) {
     });
 });
 
+//Bath area
 router.post('/mails',function(req,res){
-    const {name,mail,date,time,dogname,comment} = req.body;
-    mailModel.mail(name,mail,date,time,dogname,comment);
+  console.log("here");
+    const {name,mail,date,dogname,note} = req.body;
+    mailModel.mail(name,mail,date,dogname,note);
 });
 
+//Event area
 router.post('/texts',function(req,res){
-    const {name,mail,text} = req.body;
+    const {name,mail,date,location,dogname,process_in,check_event} = req.body;
     //console.log(req.body);
-    mailModel.tell(name,mail,text);
-});
-// Create Post
-router.post('/forum/post', function(req, res) {
-    const {barkerId, title, body} = req.body;
-    if (!barkerId || !title || !body) {
-        const err = new Error('barkerId, title and body are required');
-        err.status = 400;
-        throw err;
-    }
-
-    forumModel.createPost(barkerId, title, body).then(post => {
-        res.json(post);
-    });
+    mailModel.tell(name,mail,date,location,dogname,process_in,check_event);
 });
 
-// Create Response
-router.post('/forum/response', function(req, res) {
-    const {barkerId, postId, text} = req.body;
-    if (!barkerId || !postId || !text) {
-        const err = new Error('barkerId, postId and text are required');
-        err.status = 400;
-        throw err;
-    }
-
-    forumModel.createResponse(barkerId, postId, text).then(responses => {
-        console.log('responses');
-        console.log(responses);
-        res.json(responses);
-    });
+//Adopt area
+router.post('/adopt',function(req,res){
+    const {name, phone, email, address, exp, id} = req.body;
+    //console.log(req.body);
+    mailModel.adoptMail(name, phone, email, address, exp, id);
 });
-
 // getForum
-router.get('/forum', function(req, res) {
-    forumModel.getForum(req.query.forumId).then(forum => {
-        console.log('forum');
-        console.log(forum);
+router.get('/forum/posts', function(req, res, next) {
+    const {forumID, start} = req.query;
+    forumModel.getForum(forumID, start).then(forum => {
         res.json(forum);
-    });
+    }).catch(next);
 });
 
-// getPost
-router.get('/forum/post', function(req, res) {
-    forumModel.getPost(req.query.postId).then(post => {
-        console.log('post');
-        console.log(post);
+// getResponse
+router.get('/forum/responses', function(req, res, next) {
+    const {postID, start} = req.query;
+    forumModel.getResponses(postID, start).then(responses => {
+        res.json(responses);
+    }).catch(next);
+});
+
+// createPost
+router.post('/forum/post', function(req, res, next) {
+    const {forumID, title, content} = req.body;
+    if (!forumID || !title || !content) {
+        const err = new Error('forumID, title and content are required');
+        err.status = 400;
+        throw err;
+    }
+    forumModel.createPost(forumID, title, content).then(post => {
         res.json(post);
-    });
+    }).catch(next);
+});
+
+// createResponse
+router.post('/forum/response', function(req, res, next) {
+    const {postID, content} = req.body;
+    if (!postID || !content) {
+        const err = new Error('postID and content are required');
+        err.status = 400;
+        throw err;
+    }
+    forumModel.createResponse(postID, content).then(response => {
+        res.json(response);
+    }).catch(next);
 });
 
 module.exports = router;

@@ -1,13 +1,13 @@
 [
   {
-    "id":"Tea_Tea",
-    "name":"茶茶Tea_Tea ♀",
+    "id":"Tea-Tea",
+    "name":"茶茶Tea-Tea ♀",
     "spot":"橘色、黑背",
     "location":"桌球館、活動中心",
     "info":"親人、愛玩、愛撒嬌，外表淑女但內在住著一個瘋子，欺善怕惡，遇到比他強勢的狗立刻變俗辣，狗緣不太好。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_5996.jpg", "IMG_6430.jpg", "IMG_6718.jpg", "IMG_6772.jpg", "IMG_6919.jpg", "IMG_7046.jpg", "IMG_8939_2.jpg", "IMG_9190_2.jpg"],
+    "photos_big":["IMG_5996.jpg", "IMG_6430.jpg", "IMG_6718.jpg", "IMG_6772.jpg", "IMG_6919.jpg", "IMG_7046.jpg", "IMG_8939-2.jpg", "IMG_9190-2.jpg"],
     "photos_small":["IMG_5996.jpg", "IMG_6430.jpg", "IMG_6718.jpg", "IMG_6772.jpg", "IMG_6919.jpg", "IMG_7046.jpg", "IMG_8939.jpg", "IMG_9190.jpg"]
   },
   {
@@ -18,7 +18,7 @@
     "info":"親人但是有點膽小，熟了就會開心地對人搖尾巴，和已過世的拖把感情很好。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_0506_2.jpg", "IMG_0510_2.jpg", "IMG_2102.jpg", "IMG_2134.jpg", "IMG_2156.jpg", "IMG_3307_2.jpg", "IMG_6800.jpg", "IMG_6806.jpg", "IMG_6828.jpg"],
+    "photos_big":["IMG_0506-2.jpg", "IMG_0510-2.jpg", "IMG_2102.jpg", "IMG_2134.jpg", "IMG_2156.jpg", "IMG_3307-2.jpg", "IMG_6800.jpg", "IMG_6806.jpg", "IMG_6828.jpg"],
     "photos_small":["IMG_0506.jpg", "IMG_0510.jpg", "IMG_2102.jpg", "IMG_2134.jpg", "IMG_2156.jpg", "IMG_3307.jpg", "IMG_6800.jpg", "IMG_6806.jpg", "IMG_6828.jpg"]
   },
   {
@@ -29,11 +29,11 @@
     "info":"性格較為高冷，親不親人要看心情。很會揣測人心，還很會記仇，每次要除蚤總是傷透社員的腦筋。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_4122_2.jpg", "IMG_4126_2.jpg", "IMG_4261.jpg", "IMG_4263.jpg", "IMG_5044_2.jpg", "IMG_6417_2.jpg", "IMG_6447_2.jpg", "IMG_6466_2.jpg", "IMG_9301_2.jpg", "IMG_9303_2.jpg"],
+    "photos_big":["IMG_4122-2.jpg", "IMG_4126-2.jpg", "IMG_4261.jpg", "IMG_4263.jpg", "IMG_5044-2.jpg", "IMG_6417-2.jpg", "IMG_6447-2.jpg", "IMG_6466-2.jpg", "IMG_9301-2.jpg", "IMG_9303-2.jpg"],
     "photos_small":["IMG_4122.jpg", "IMG_4126.jpg", "IMG_4261.jpg", "IMG_4263.jpg", "IMG_5044.jpg", "IMG_6417.jpg", "IMG_6447.jpg", "IMG_6466.jpg", "IMG_9301.jpg", "IMG_9303.jpg"]
   },
   {
-    "id":"A_gun",
+    "id":"A-gun",
     "name":"阿幹A-gun ♀",
     "spot":"黑棕色、立耳、囧臉、睡覺翻白眼",
     "location":"小吃部、活動中心、台達館",
@@ -51,7 +51,7 @@
     "photos_small":["IMG_2198.jpg", "IMG_3318.jpg", "IMG_4572.jpg", "IMG_5454.jpg", "IMG_5456.jpg", "IMG_6264.jpg", "IMG_7007.jpg"]
   },
   {
-    "id":"A_Vai",
+    "id":"A-Vai",
     "name":"阿醜A-Vai ♀",
     "spot":"白棕",
     "location":"活動中心、野台、宿舍區",
@@ -65,7 +65,7 @@
       [
         "阿醜雖然很親人，但是不太喜歡小朋友，如果帶著小朋友要注意不要直接伸手摸她喔！除此之外，她對其他狗也很強勢(可能是小時候被狠狠揍過的關係)，不知不覺間已經是清大校園的一方女霸主，在校園裡有著頗高的地位，新狗出現的時候會立即來個下馬威，打起架來毫不手軟，完全不輸四條腿的喔！"
       ],
-    "photos_big":["IMG_2060.jpg", "IMG_4483.jpg", "IMG_4589.jpg", "IMG_9434.jpg", "IMG_5851.jpg", "IMG_5853.jpg", "IMG_6855.jpg", "IMG_6955.jpg", "IMG_1444.jpg", "IMG_2061_2.jpg"],
+    "photos_big":["IMG_2060.jpg", "IMG_4483.jpg", "IMG_4589.jpg", "IMG_9434.jpg", "IMG_5851.jpg", "IMG_5853.jpg", "IMG_6855.jpg", "IMG_6955.jpg", "IMG_1444.jpg", "IMG_2061-2.jpg"],
     "photos_small":["IMG_2060.jpg", "IMG_4483.jpg", "IMG_4589.jpg", "IMG_9434.jpg", "IMG_5851.jpg", "IMG_5853.jpg", "IMG_6855.jpg", "IMG_6955.jpg", "IMG_1444.jpg", "IMG_2061.jpg"]
   },
   {
@@ -76,7 +76,7 @@
     "info":"親人但容易受驚嚇。曾經是乖狗的小弟，後來跑到台積自立一戶，和小白是伴侶。有另外一個名字叫做「乖乖狗」。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_2705.jpg", "IMG_2709.jpg", "IMG_3829_2.jpg", "IMG_3852_2.jpg", "IMG_4137_2.jpg", "IMG_4146_2.jpg", "IMG_4272_2.jpg", "IMG_4296_2.jpg", "IMG_5087_2.jpg", "IMG_5244.jpg", "IMG_5274.jpg", "IMG_5276.jpg", "IMG_6433_2.jpg"],
+    "photos_big":["IMG_2705.jpg", "IMG_2709.jpg", "IMG_3829-2.jpg", "IMG_3852-2.jpg", "IMG_4137-2.jpg", "IMG_4146-2.jpg", "IMG_4272-2.jpg", "IMG_4296-2.jpg", "IMG_5087-2.jpg", "IMG_5244.jpg", "IMG_5274.jpg", "IMG_5276.jpg", "IMG_6433-2.jpg"],
     "photos_small":["IMG_2705.jpg", "IMG_2709.jpg", "IMG_3829.jpg", "IMG_3852.jpg", "IMG_4137.jpg", "IMG_4146.jpg", "IMG_4272.jpg", "IMG_4296.jpg", "IMG_5087.jpg", "IMG_5244.jpg", "IMG_5274.jpg", "IMG_5276.jpg", "IMG_6433.jpg"]
   },
   {
@@ -87,7 +87,7 @@
     "info":"親人、愛撒嬌，活動範圍極廣，從交大到宵夜街都可能出現他的身影。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_4275_2.jpg", "IMG_4282_2.jpg", "IMG_4284_2.jpg", "IMG_4285_2.jpg", "IMG_4289_2.jpg", "IMG_4296_2.jpg", "IMG_5218_2.jpg", "IMG_6231_2.jpg", "IMG_7164.jpg", "IMG_8745_2.jpg", "IMG_8747_2.jpg"],
+    "photos_big":["IMG_4275-2.jpg", "IMG_4282-2.jpg", "IMG_4284-2.jpg", "IMG_4285-2.jpg", "IMG_4289-2.jpg", "IMG_4296-2.jpg", "IMG_5218-2.jpg", "IMG_6231-2.jpg", "IMG_7164.jpg", "IMG_8745-2.jpg", "IMG_8747-2.jpg"],
     "photos_small":["IMG_4275.jpg", "IMG_4282.jpg", "IMG_4284.jpg", "IMG_4285.jpg", "IMG_4289.jpg", "IMG_4296.jpg", "IMG_5218.jpg", "IMG_6231.jpg", "IMG_7164.jpg", "IMG_8745.jpg", "IMG_8747.jpg"]
   },
   {
@@ -133,11 +133,11 @@
       [
         "Lally在2010年九月來到清大，至今也待在校園很長一段時間了。2015年的時候發現前腳長了腫瘤，送醫切除並進行化驗，化驗結果為＂肥大細胞瘤＂第二級，醫生判定Lally的壽命至少還有一年。除此之外，Lally還有＂甲狀腺素機能低落＂和 \"腎結石\"的問題，希望大家經過野台看到Lally可以多餵牠喝水，也請大家可以幫我們多多注意Lally的近況，看看身體有沒有又長新的腫瘤，食慾、精神狀況都可以回報給我們喔！"
       ],
-    "photos_big":["IMG_1131.jpg", "IMG_1631.jpg", "IMG_3893.jpg", "IMG_4722.jpg" , "IMG_6754.jpg" , "IMG_6901.jpg" , "IMG_6908.jpg","IMG_6967.jpg","IMG_1541_2.jpg","IMG_1441_2.jpg"],
+    "photos_big":["IMG_1131.jpg", "IMG_1631.jpg", "IMG_3893.jpg", "IMG_4722.jpg" , "IMG_6754.jpg" , "IMG_6901.jpg" , "IMG_6908.jpg","IMG_6967.jpg","IMG_1541-2.jpg","IMG_1441-2.jpg"],
     "photos_small":["IMG_1131.jpg", "IMG_1631.jpg", "IMG_3893.jpg" , "IMG_4722.jpg" , "IMG_6754.jpg" , "IMG_6901.jpg" , "IMG_6908.jpg","IMG_6967.jpg","IMG_1541.jpg","IMG_1441.jpg"]
   },
   {
-    "id":"O_tun",
+    "id":"O-tun",
     "name":"黑糖O-tun ♀",
     "spot":" 黑色(最近越來越白)、擺臭臉、垂耳、頭小身體大   ",
     "location":" 操場、野台、活動中心",
@@ -150,7 +150,7 @@
       [
         "黑糖在醫療站也是問題兒童一枚，常常絕食不吃東西，還要社員雙手捧著食物給她吃，她才會勉強敷衍吃兩口。餵藥的時候也很討人厭，心情好的時候讓人塞藥（只是要小心她假裝吞下去後又偷偷吐出來），心情不好時想要塞藥還會想咬人，常常讓社員傷透了腦筋，不知該如何是好。"
       ],
-    "photos_big":["IMG_1056.jpg", "IMG_1075.jpg", "IMG_1224.jpg", "IMG_2126.jpg" , "IMG_3571.jpg" , "IMG_3748.jpg" , "IMG_4343.jpg","IMG_6848.jpg","IMG_4343_2.jpg"],
+    "photos_big":["IMG_1056.jpg", "IMG_1075.jpg", "IMG_1224.jpg", "IMG_2126.jpg" , "IMG_3571.jpg" , "IMG_3748.jpg" , "IMG_4343.jpg","IMG_6848.jpg","IMG_4343-2.jpg"],
     "photos_small":["IMG_1056.jpg", "IMG_1075.jpg", "IMG_1224.jpg" , "IMG_2126.jpg" , "IMG_3571.jpg" , "IMG_3748.jpg" , "IMG_4343.jpg","IMG_6848.jpg","IMG_4155.jpg"]
   },
   {
@@ -167,12 +167,12 @@
       [
         "布丁是清大校草當之無愧，長得帥氣親人。他最喜歡女孩子，卻又愛玩弄少女心，總是對人忽冷忽熱、欲擒故縱，有時候當一回護花使者護送女同學回宿舍，然而明天再遇到又不理人了，把妹手段一流。布丁的身材也是好得沒話說，不長肥肉只長肌肉，明明不挑嘴什麼都吃，有時候一天還吃好幾餐，餓了甚至還會自己去打野味，為什麼都不會胖呢！"
       ],
-    "photos_big":["IMG_2254_2.jpg", "IMG_1251.jpg", "IMG_1271.jpg", "IMG_1304.jpg" , "IMG_1341.jpg" , "IMG_1390.jpg" , "IMG_1396.jpg","IMG_1427.jpg","IMG_2227.jpg","IMG_3830.jpg","IMG_4021.jpg"],
+    "photos_big":["IMG_2254-2.jpg", "IMG_1251.jpg", "IMG_1271.jpg", "IMG_1304.jpg" , "IMG_1341.jpg" , "IMG_1390.jpg" , "IMG_1396.jpg","IMG_1427.jpg","IMG_2227.jpg","IMG_3830.jpg","IMG_4021.jpg"],
     "photos_small":["IMG_2254.jpg", "IMG_1251.jpg", "IMG_1271.jpg" , "IMG_1304.jpg" , "IMG_1341.jpg" , "IMG_1390.jpg" , "IMG_1396.jpg","IMG_1427.jpg","IMG_2227.jpg","IMG_3830.jpg","IMG_4021.jpg"]
   },
 
   {
-    "id":"Good_dog",
+    "id":"Good-dog",
     "name":"乖狗Good-dog ♂",
     "spot":"黑色、一立一垂耳、臉上常常掛著憨笑、走路腳開開還會扭屁股 ",
     "location":"  活動中心、操場、台積",
@@ -184,8 +184,8 @@
   },
 
   {
-    "id":"Good_dog",
-    "name":"乖狗Good_dog ♂",
+    "id":"Good-dog",
+    "name":"乖狗Good-dog ♂",
     "spot":"黑色、一立一垂耳、臉上常常掛著憨笑、走路腳開開還會扭屁股 ",
     "location":"  活動中心、操場、台積",
     "info":"溫和，叫名字會跑過來，對女生諂媚，最近也有發胖的趨勢，走路有點左右搖晃十分可愛。是超人和來來的老大，同時和台積的小白與黑胖感情很好，偶爾會上台積探望。",
@@ -215,7 +215,7 @@
       [
         "曾經有社員在黑夜中把熟睡中的超人誤認成黑糖，所以惡作劇的戳了他的屁股一下，結果把超人嚇到整個彈飛，臭著臉瞪了社員一下然後飛奔離去，那個場面……真是好好笑又好好玩啊XD（千萬不要仿效喔！）"
       ],
-    "photos_big":["IMG_1582.jpg", "IMG_1587.jpg", "IMG_4486.jpg", "IMG_4618.jpg" , "IMG_4631.jpg" , "IMG_5381.jpg" , "IMG_5858_2.jpg"],
+    "photos_big":["IMG_1582.jpg", "IMG_1587.jpg", "IMG_4486.jpg", "IMG_4618.jpg" , "IMG_4631.jpg" , "IMG_5381.jpg" , "IMG_5858-2.jpg"],
     "photos_small":["IMG_1582.jpg", "IMG_1587.jpg", "IMG_4486.jpg" , "IMG_4618.jpg" , "IMG_4631.jpg" , "IMG_5381.jpg" , "IMG_5858.jpg"]
   },
 
@@ -233,7 +233,7 @@
       [
         "論顏值在清大校浪中，小丸子說第二沒人敢說第一。大家都臣服於他的高顏值。個性好，只是笨了點。所有校浪都不會兇丸子，是狗界的模範生。丸子的笨拙大概是源自於牠愛撒嬌的關係，常常在校園中跟著社員到處跑，不論是教室或者是活動中心，都可以看到丸子黏著人不放。但是也因為這樣，有時候甚至做出令人捧腹大笑的行徑。有一次在野台，阿醜跟黑糖跑去圍毆Lally，結果丸子似乎是好奇，傻傻地跑到旁邊圍觀這場鬥爭但完全不知所措，模樣看起來十分搞笑。"
       ],
-    "photos_big":["IMG_2221.jpg", "IMG_3645.jpg", "IMG_3648.jpg", "IMG_3651.jpg" , "IMG_3668.jpg" , "IMG_3853.jpg" , "IMG_4006.jpg","IMG_4009.jpg","IMG_4952.jpg","IMG_6074_2.jpg","IMG_6774.jpg","IMG_7624_2.jpg"],
+    "photos_big":["IMG_2221.jpg", "IMG_3645.jpg", "IMG_3648.jpg", "IMG_3651.jpg" , "IMG_3668.jpg" , "IMG_3853.jpg" , "IMG_4006.jpg","IMG_4009.jpg","IMG_4952.jpg","IMG_6074-2.jpg","IMG_6774.jpg","IMG_7624-2.jpg"],
     "photos_small":["IMG_2221.jpg", "IMG_3645.jpg", "IMG_3648.jpg" , "IMG_3651.jpg" , "IMG_3668.jpg" , "IMG_3853.jpg" , "IMG_4006.jpg","IMG_4009.jpg","IMG_4952.jpg","IMG_6074.jpg","IMG_6774.jpg","IMG_7624.jpg"]
   },
 
@@ -251,7 +251,7 @@
       [
         "傷傷雖然性格有點屁孩、毛摸起來黏黏的、口水超級多還很臭，但實際上是個好孩子，在醫療站的時候總是乖巧坐著，用無辜的眼神看著社員做事，若是社員不理會他還會咿咿呀呀的哭個幾聲，令人憐愛。皮膚病和耳血腫讓傷傷看起來並不討喜，但仔細一看就會發現他長著一張娃娃臉，笑起來非常可愛，身材也很修長，若是好好照顧會是一隻很漂亮的狗。因此社團一直希望能幫傷傷找一個能夠全心全意照顧他的家，如果你喜歡傷傷、想要帶他回家，歡迎跟我們連繫喔！"
       ],
-    "photos_big":["IMG_4169.jpg", "IMG_4170.jpg", "IMG_4729_2.jpg", "IMG_5299.jpg" , "IMG_5449.jpg" , "IMG_5462.jpg" , "IMG_5463.jpg","IMG_6761.jpg" , "IMG_6765.jpg" , "IMG_7422_2.jpg" , "IMG_7439_2.jpg"],
+    "photos_big":["IMG_4169.jpg", "IMG_4170.jpg", "IMG_4729-2.jpg", "IMG_5299.jpg" , "IMG_5449.jpg" , "IMG_5462.jpg" , "IMG_5463.jpg","IMG_6761.jpg" , "IMG_6765.jpg" , "IMG_7422-2.jpg" , "IMG_7439-2.jpg"],
     "photos_small":["IMG_4169.jpg", "IMG_4170.jpg", "IMG_4729.jpg" , "IMG_5299.jpg" , "IMG_5449.jpg" , "IMG_5462.jpg" , "IMG_5463.jpg","IMG_6761.jpg" , "IMG_6765.jpg" , "IMG_7422.jpg" , "IMG_7439.jpg"]
   },
 
@@ -269,12 +269,12 @@
       [
         "金毛的性別一直成謎，因為他的毛太長，又不喜歡被人亂摸肚子，當時結紮的紀錄也沒有保留下來，有社員說他偷偷摸過金毛的肚子什麼都摸不到確定是女生，另一個社員則說金毛其實只是ㄐㄐ太小摸不到XD。直到最近才有勇者趁著金毛心情好亂摸她肚子，終於確認了金毛其實是個貨真價實的女孩子啦！"
       ],
-    "photos_big":["IMG_1644.jpg", "IMG_1645.jpg", "IMG_5124.jpg", "IMG_5126.jpg" , "IMG_5776_2.jpg" , "IMG_6259.jpg" , "IMG_6465.jpg","IMG_6480.jpg","IMG_6482.jpg"],
+    "photos_big":["IMG_1644.jpg", "IMG_1645.jpg", "IMG_5124.jpg", "IMG_5126.jpg" , "IMG_5776-2.jpg" , "IMG_6259.jpg" , "IMG_6465.jpg","IMG_6480.jpg","IMG_6482.jpg"],
     "photos_small":["IMG_1644.jpg", "IMG_1645.jpg", "IMG_5124.jpg" , "IMG_5126.jpg" , "IMG_5776.jpg" , "IMG_6259.jpg" , "IMG_6465.jpg","IMG_6480.jpg","IMG_6482.jpg"]
   },
 
   {
-    "id":"Pi_dan",
+    "id":"Pi-dan",
     "name":"皮蛋Pi-dan ♂",
     "spot":"橘棕色、跛腳",
     "location":"學齋 ",
@@ -287,7 +287,7 @@
       [
         "有時候天氣太冷或太熱，皮蛋會想要跑進學齋，很容易造成怕狗的同學的困擾，因此請同學們看到皮蛋趴在學齋門口時，開關門時千萬小心不要讓他偷偷跑進宿舍喔！"
       ],
-    "photos_big":["IMG_2253.jpg", "IMG_2258.jpg", "IMG_3601.jpg", "IMG_3603.jpg" , "IMG_3615.jpg" , "IMG_3624.jpg" , "IMG_3636.jpg","IMG_3638.jpg","IMG_4399.jpg","IMG_5560.jpg" , "IMG_6888.jpg","IMG_8882_2.jpg","IMG_8888_2.jpg"],
+    "photos_big":["IMG_2253.jpg", "IMG_2258.jpg", "IMG_3601.jpg", "IMG_3603.jpg" , "IMG_3615.jpg" , "IMG_3624.jpg" , "IMG_3636.jpg","IMG_3638.jpg","IMG_4399.jpg","IMG_5560.jpg" , "IMG_6888.jpg","IMG_8882-2.jpg","IMG_8888-2.jpg"],
     "photos_small":["IMG_2253.jpg", "IMG_2258.jpg", "IMG_3601.jpg" , "IMG_3603.jpg" , "IMG_3615.jpg" , "IMG_3624.jpg" , "IMG_3636.jpg","IMG_3638.jpg","IMG_4399.jpg","IMG_5560.jpg" , "IMG_6888.jpg","IMG_8882.jpg","IMG_8888.jpg"]
   },
   {
@@ -304,7 +304,7 @@
       [
         "花捲雖然長得很漂亮，但是非常膽小，想要接近她的話，必須滿足三要素：灰色廂型車、金毛、好吃的食物。怕生的花捲只有在保護灰色廂型車時才不會因為你的接近而逃之夭夭，而其他狗狗在身邊時，花捲的戒心會降低，你可以把注意力集中在金毛（或是皮蛋）身上，並餵牠們吃零食，時不時再丟一塊給花捲，接著你就會發現花捲對你的戒心越來越低，離你越來越近，這時你可以試著跟她說說話，讓她記住你的聲音。而這樣的餵食持續一段時間之後，只要花捲一聽到你的聲音，就會從遠方跑過來討食物啦～～～以上為社員的真實經歷，並在與花捲關係最好的時候趁機拍了許多花捲近照，不過最後還是沒有摸到花捲，因為社員的花捲餵食計畫中斷了兩個禮拜，就被花捲遺忘了，只好一切從頭開始。傷心的社員有感於花捲的無情，決心再也不理她了XD。"
       ],
-    "photos_big":["IMG_5148.jpg", "IMG_5152.jpg", "IMG_5562.jpg", "IMG_5588.jpg" , "IMG_5611.jpg" , "IMG_5980.jpg" , "IMG_5987.jpg","IMG_6023.jpg","IMG_6274.jpg","IMG_6285.jpg" , "IMG_6943_2.jpg","IMG_6950_2.jpg","IMG_7779_2.jpg"],
+    "photos_big":["IMG_5148.jpg", "IMG_5152.jpg", "IMG_5562.jpg", "IMG_5588.jpg" , "IMG_5611.jpg" , "IMG_5980.jpg" , "IMG_5987.jpg","IMG_6023.jpg","IMG_6274.jpg","IMG_6285.jpg" , "IMG_6943-2.jpg","IMG_6950-2.jpg","IMG_7779-2.jpg"],
     "photos_small":["IMG_5148.jpg", "IMG_5152.jpg", "IMG_5562.jpg" , "IMG_5588.jpg" , "IMG_5611.jpg" , "IMG_5980.jpg" , "IMG_5987.jpg","IMG_6023.jpg","IMG_6274.jpg","IMG_6285.jpg" , "IMG_6943.jpg","IMG_6950.jpg","IMG_7779.jpg"]
   },
 
@@ -319,7 +319,7 @@
         "2012年底於宿舍區工地發現囧媽以及其所生產的四隻小狗，後來由社團接手照顧，幫囧媽結紮並協助小狗送養。囧媽結紮之後放回工地，而四隻小狗中有三隻送養成功，剩下一隻踏雪的布蘭妮留在校園。"
       ],
     "murmur":[],
-    "photos_big":["IMG_0581_2.jpg", "IMG_4498.jpg", "IMG_4506.jpg", "IMG_4512.jpg" , "IMG_4532.jpg" , "IMG_4533.jpg" , "IMG_4539.jpg","IMG_4534.jpg","IMG_4550.jpg","IMG_6401.jpg" , "IMG_6403.jpg"],
+    "photos_big":["IMG_0581-2.jpg", "IMG_4498.jpg", "IMG_4506.jpg", "IMG_4512.jpg" , "IMG_4532.jpg" , "IMG_4533.jpg" , "IMG_4539.jpg","IMG_4534.jpg","IMG_4550.jpg","IMG_6401.jpg" , "IMG_6403.jpg"],
     "photos_small":["IMG_0581.jpg", "IMG_4498.jpg", "IMG_4506.jpg" , "IMG_4512.jpg" , "IMG_4532.jpg" , "IMG_4533.jpg" , "IMG_4539.jpg","IMG_4534.jpg","IMG_4550.jpg","IMG_6401.jpg" , "IMG_6403.jpg"]
   },
 
@@ -334,7 +334,7 @@
         "2012年底於宿舍區工地發現囧媽以及其所生產的四隻小狗，後來由社團接手照顧，幫囧媽結紮並協助小狗送養。囧媽結紮之後放回工地，而四隻小狗中有三隻送養成功，剩下一隻踏雪的布蘭妮留在校園。"
       ],
     "murmur":[],
-    "photos_big":["IMG_0581_2.jpg", "IMG_4498.jpg", "IMG_4506.jpg", "IMG_4512.jpg" , "IMG_4532.jpg" , "IMG_4533.jpg" , "IMG_4539.jpg","IMG_4534.jpg","IMG_4550.jpg","IMG_6401.jpg" , "IMG_6403.jpg"],
+    "photos_big":["IMG_0581-2.jpg", "IMG_4498.jpg", "IMG_4506.jpg", "IMG_4512.jpg" , "IMG_4532.jpg" , "IMG_4533.jpg" , "IMG_4539.jpg","IMG_4534.jpg","IMG_4550.jpg","IMG_6401.jpg" , "IMG_6403.jpg"],
     "photos_small":["IMG_0581.jpg", "IMG_4498.jpg", "IMG_4506.jpg" , "IMG_4512.jpg" , "IMG_4532.jpg" , "IMG_4533.jpg" , "IMG_4539.jpg","IMG_4534.jpg","IMG_4550.jpg","IMG_6401.jpg" , "IMG_6403.jpg"]
   },
   {
@@ -345,7 +345,7 @@
     "info":"親人愛玩、愛撒嬌、愛吃醋，寒假的時候出了車禍右前腳骨折，和他玩的時候要溫柔一點喔！",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_1490.jpg", "IMG_1516.jpg", "IMG_1529.jpg", "IMG_1532.jpg" , "IMG_1581.jpg" , "IMG_3059_2.jpg" , "IMG_5017.jpg","IMG_5036.jpg" , "IMG_5039.jpg" , "IMG_5051.jpg" , "IMG_9376_2.jpg"],
+    "photos_big":["IMG_1490.jpg", "IMG_1516.jpg", "IMG_1529.jpg", "IMG_1532.jpg" , "IMG_1581.jpg" , "IMG_3059-2.jpg" , "IMG_5017.jpg","IMG_5036.jpg" , "IMG_5039.jpg" , "IMG_5051.jpg" , "IMG_9376-2.jpg"],
     "photos_small":["IMG_1490.jpg", "IMG_1516.jpg", "IMG_1529.jpg" , "IMG_1532.jpg" , "IMG_1581.jpg" , "IMG_3059.jpg" , "IMG_5017.jpg","IMG_5036.jpg" , "IMG_5039.jpg" , "IMG_5051.jpg" , "IMG_9376.jpg"]
   },
   {
@@ -367,18 +367,18 @@
     "info":"親人、愛撒嬌，校園人氣王。不過對狗比較強勢，有時候會欺負其他狗，狗緣不太好。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_1121.jpg", "IMG_1127.jpg", "IMG_4204.jpg", "IMG_4214.jpg" , "IMG_4215.jpg" , "IMG_4236.jpg" , "IMG_4245.jpg","IMG_4250.jpg","IMG_4456_2.jpg","IMG_4906.jpg" , "IMG_4920.jpg","IMG_5745.jpg","IMG_5758.jpg","IMG_7121.jpg","IMG_7125.jpg"],
+    "photos_big":["IMG_1121.jpg", "IMG_1127.jpg", "IMG_4204.jpg", "IMG_4214.jpg" , "IMG_4215.jpg" , "IMG_4236.jpg" , "IMG_4245.jpg","IMG_4250.jpg","IMG_4456-2.jpg","IMG_4906.jpg" , "IMG_4920.jpg","IMG_5745.jpg","IMG_5758.jpg","IMG_7121.jpg","IMG_7125.jpg"],
     "photos_small":["IMG_1121.jpg", "IMG_1127.jpg", "IMG_4204.jpg" , "IMG_4214.jpg" , "IMG_4215.jpg" , "IMG_4236.jpg" , "IMG_4245.jpg","IMG_4250.jpg","IMG_4456.jpg","IMG_4906.jpg" , "IMG_4920.jpg","IMG_5745.jpg","IMG_5758.jpg","IMG_7121.jpg","IMG_7125.jpg"]
   },
   {
-    "id":"Ding_Ding",
-    "name":"丁丁Ding_Ding ♀",
+    "id":"Ding-Ding",
+    "name":"丁丁Ding-Ding ♀",
     "spot":"乳牛色、小短腿   ",
     "location":"旺宏、宵夜街 ",
     "info":"本名是優雅的克莉絲汀。看到比她資深的狗，會第一時間翻肚子投降。時常在校外走動。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_1499.jpg", "IMG_1545.jpg", "IMG_2054.jpg", "IMG_2067.jpg" , "IMG_2080.jpg" , "IMG_2146.jpg" , "IMG_4437_2.jpg"],
+    "photos_big":["IMG_1499.jpg", "IMG_1545.jpg", "IMG_2054.jpg", "IMG_2067.jpg" , "IMG_2080.jpg" , "IMG_2146.jpg" , "IMG_4437-2.jpg"],
     "photos_small":["IMG_1499.jpg", "IMG_1545.jpg", "IMG_2054.jpg" , "IMG_2067.jpg" , "IMG_2080.jpg" , "IMG_2146.jpg" , "IMG_4437.jpg"]
   },
   {
@@ -393,8 +393,8 @@
     "photos_small":["IMG_4440.jpg", "IMG_4446.jpg", "IMG_4469.jpg" , "IMG_4957.jpg" , "IMG_4967.jpg" , "IMG_4968.jpg" , "IMG_4972.jpg","IMG_5405.jpg","IMG_5421.jpg","IMG_5443.jpg" , "IMG_5798.jpg","IMG_5803.jpg","IMG_6131.jpg"]
   },
   {
-    "id":"Little_Black",
-    "name":"小黑Little_Black ♀",
+    "id":"Little-Black",
+    "name":"小黑Little-Black ♀",
     "spot":"黑色、身形瘦長",
     "location":"化工館後門",
     "info":"小黃集團成員，不親人。和警長是伴侶，兩隻時常一起行動。怎麼吃都不會胖，有時候小跑步的時候會跛腳。",
@@ -422,7 +422,7 @@
     "info":"小黃集團成員，不親人，平時無法接近，有食物的話可以試著偷摸。非 常 挑 食， 不 吃 一 般 罐頭，只吃西莎。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_4079.jpg", "IMG_4107.jpg", "IMG_4110.jpg", "IMG_4118.jpg" , "IMG_4122.jpg" , "IMG_4132.jpg" , "IMG_5885.jpg","IMG_5890.jpg","IMG_5895.jpg","IMG_6331.jpg" , "IMG_6533.jpg","IMG_6537.jpg","IMG_7173.jpg" , "IMG_7175.jpg","IMG_8911_2.jpg"],
+    "photos_big":["IMG_4079.jpg", "IMG_4107.jpg", "IMG_4110.jpg", "IMG_4118.jpg" , "IMG_4122.jpg" , "IMG_4132.jpg" , "IMG_5885.jpg","IMG_5890.jpg","IMG_5895.jpg","IMG_6331.jpg" , "IMG_6533.jpg","IMG_6537.jpg","IMG_7173.jpg" , "IMG_7175.jpg","IMG_8911-2.jpg"],
     "photos_small":["IMG_4079.jpg", "IMG_4107.jpg", "IMG_4110.jpg" , "IMG_4118.jpg" , "IMG_4122.jpg" , "IMG_4132.jpg" , "IMG_5885.jpg","IMG_5890.jpg","IMG_5895.jpg","IMG_6331.jpg" , "IMG_6533.jpg","IMG_6537.jpg","IMG_7173.jpg" , "IMG_7175.jpg","IMG_8911.jpg"]
   },
   {
@@ -433,29 +433,29 @@
     "info":"小黃集團成員，不親人，很容易緊張，平時無法靠近，有罐頭的話可以試著偷摸。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_5845.jpg", "IMG_5861.jpg", "IMG_5870.jpg", "IMG_6725_2.jpg" , "IMG_6732_2.jpg" , "IMG_6734_2.jpg" ],
+    "photos_big":["IMG_5845.jpg", "IMG_5861.jpg", "IMG_5870.jpg", "IMG_6725-2.jpg" , "IMG_6732-2.jpg" , "IMG_6734-2.jpg" ],
     "photos_small":["IMG_5845.jpg", "IMG_5861.jpg", "IMG_5870.jpg" , "IMG_6725.jpg" , "IMG_6732.jpg" , "IMG_6734.jpg"]
   },
   {
-    "id":"Hang_Hang",
-    "name":"吊吊Hang_Hang ♂",
+    "id":"Hang-Hang",
+    "name":"吊吊Hang-Hang ♂",
     "spot":"黑色、左前腳蜷曲  ",
     "location":"化工館後門",
     "info":"小黃集團成員，不親人。左前腳是舊傷無法痊癒但不影響生活。對跳蚤過敏所以嚴重脫毛，但不親人所以很難治療。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_3488.jpg", "IMG_3490.jpg", "IMG_3507.jpg", "IMG_3510.jpg" , "IMG_3521.jpg" , "IMG_4657.jpg" , "IMG_4680.jpg","IMG_4684.jpg","IMG_4691.jpg","IMG_4706.jpg" , "IMG_8902_2.jpg"],
+    "photos_big":["IMG_3488.jpg", "IMG_3490.jpg", "IMG_3507.jpg", "IMG_3510.jpg" , "IMG_3521.jpg" , "IMG_4657.jpg" , "IMG_4680.jpg","IMG_4684.jpg","IMG_4691.jpg","IMG_4706.jpg" , "IMG_8902-2.jpg"],
     "photos_small":["IMG_3488.jpg", "IMG_3490.jpg", "IMG_3507.jpg" , "IMG_3510.jpg" , "IMG_3521.jpg" , "IMG_4657.jpg" , "IMG_4680.jpg","IMG_4684.jpg","IMG_4691.jpg","IMG_4706.jpg" , "IMG_8902.jpg"]
   },
   {
-    "id":"Hei_lu_lu",
-    "name":"黑嚕嚕Hei_lu_lu ♂",
+    "id":"Hei-lu-lu",
+    "name":"黑嚕嚕Hei-lu-lu ♂",
     "spot":"黑色、體型嬌小",
     "location":"實齋、全校",
     "info":"親人、愛撒嬌，最近成為了麥芽的小跟班，是少數幾隻能和麥芽好好相處的校浪。",
     "story":[],
     "murmur":[],
-    "photos_big":["IMG_1418.jpg", "IMG_2247.jpg", "IMG_3906.jpg", "IMG_6726.jpg" , "IMG_6736.jpg" , "IMG_6786.jpg" , "IMG_6787.jpg","IMG_7079.jpg","IMG_7083.jpg","IMG_7114.jpg", "IMG_7130.jpg", "IMG_7144.jpg", "IMG_9172_2.jpg", "IMG_9260_2.jpg"],
+    "photos_big":["IMG_1418.jpg", "IMG_2247.jpg", "IMG_3906.jpg", "IMG_6726.jpg" , "IMG_6736.jpg" , "IMG_6786.jpg" , "IMG_6787.jpg","IMG_7079.jpg","IMG_7083.jpg","IMG_7114.jpg", "IMG_7130.jpg", "IMG_7144.jpg", "IMG_9172-2.jpg", "IMG_9260-2.jpg"],
     "photos_small":["IMG_1418.jpg", "IMG_2247.jpg", "IMG_3906.jpg" , "IMG_6726.jpg" , "IMG_6736.jpg" , "IMG_6786.jpg" , "IMG_6787.jpg","IMG_7079.jpg","IMG_7083.jpg","IMG_7114.jpg" , "IMG_7130.jpg", "IMG_7144.jpg", "IMG_9172.jpg", "IMG_9260.jpg"]
   }
 ]
